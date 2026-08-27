@@ -1,0 +1,19 @@
+{
+  "documents": [
+    {
+      "title": "OCI Cloud Guard review pattern",
+      "classification": "internal-demo",
+      "content": "Review Cloud Guard findings, validate context, and assign remediation through approved change management."
+    },
+    {
+      "title": "RAG source approval rule",
+      "classification": "internal-demo",
+      "content": "Retrieve only from approved, classified knowledge sources and cite the source in the analyst response."
+    },
+    {
+      "title": "Human approval boundary",
+      "classification": "internal-demo",
+      "content": "The agent can recommend a remediation but cannot change IAM, network, or production resources automatically."
+    }
+  ]
+}
